@@ -1,1 +1,1 @@
-##Ares Terms Of Server
+# Ares Terms Of Service
